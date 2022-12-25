@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## https://sauravhathi.github.io/qr-code-generator/
+![image](https://user-images.githubusercontent.com/61316762/209464182-b49c7d6f-534b-47c8-860c-79f3ba151dcb.png)
+
 ## Getting Started
 
 First, run the development server:
