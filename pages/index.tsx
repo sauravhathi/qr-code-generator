@@ -55,7 +55,7 @@ export default function Home() {
 
           </div>
           <div className={styles.qrCode}>
-            <Image src={qrCode ? qrCode : '/qr-code.png'}
+            <Image src={qrCode ? qrCode : 'https://github.com/sauravhathi/qr-code-generator/blob/main/public/qr-code.png?raw=true'}
            alt="QR Code" width={300} height={300} className={styles.qrCodeImg} />
           </div>
         </div>
